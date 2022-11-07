@@ -1,9 +1,6 @@
 import React from "react";
 
-
-
 function Hello(props){
-
     return(
        <div>
         <h1>"Hello World"</h1>
@@ -11,6 +8,4 @@ function Hello(props){
        </div> 
     )
 }
-
-
 export default Hello
